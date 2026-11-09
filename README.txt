@@ -143,3 +143,6 @@ Client logo showcase update:
 
 MAHA Cement logo correction:
 Replaced the incorrect MAHA mark with the logo visible in the official Maha Cement website banner (mahacement.com). The card crops the top-right brand mark from the official published image.
+
+
+Latest update: Added 11 new fleet photographs to the website gallery. The original website content and layout have been retained.
