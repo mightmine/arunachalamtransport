@@ -104,3 +104,42 @@ Support 1: +91 97904 84696
 Support 2: +91 63856 54460
 
 Email: arunachalamtransportcompany@gmail.com
+
+
+Latest logo update:
+- Replaced the old logo artwork with the supplied 1254 x 1254 HD logo.
+- Updated header and footer logo references to the new transparent PNG.
+- Added a favicon generated from the new logo.
+- Logo background made transparent for clean display on light and dark areas.
+
+Footer logo correction:
+The HD logo is displayed on a white rounded tile in the dark footer so its black road graphic remains clearly visible. Header logo remains on its original transparent/light background.
+
+
+Company profile update:
+- Market experience since 2011.
+- Core operation: bulk fly ash transportation from thermal power plants to cement factories.
+- Bulk cement transportation and shipping support from cement factories/supply locations to customer destinations.
+- Added Our Happy Clients section:
+  UltraTech, India Cements, KCP Cements, MAHA Cements, JSW Cements,
+  Refex Industries, MEPCO (Metal Powder Company Ltd.), Ultra Power Cement,
+  and Paver Chemco.
+
+
+Client showcase update:
+- Added a responsive 3-column desktop / 2-column mobile client wordmark grid.
+- Included all nine client names provided by the company.
+- Used clean text-based wordmark treatments in brand-inspired colours.
+- These are presentation wordmarks, not certified official logo artwork.
+- Replace with approved client-supplied logo files when available.
+
+
+Client logo showcase update:
+- Replaced hand-typed logo approximations with image assets found online.
+- Used published logo artwork for UltraTech, India Cements, KCP Cement, MAHA Cement,
+  JSW Cement, Refex Industries, MEPCO, Ultra Power Cement and Paver Chemco.
+- Logo images are currently referenced from their published web image URLs, so the visitor's browser needs an internet connection to load them.
+- Brand marks remain the property of their respective owners.
+
+MAHA Cement logo correction:
+Replaced the incorrect MAHA mark with the logo visible in the official Maha Cement website banner (mahacement.com). The card crops the top-right brand mark from the official published image.
