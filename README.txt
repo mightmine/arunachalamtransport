@@ -75,3 +75,13 @@ Tamil Nadu, 606206.
 Registered Office Address:
 2nd Street, Jagadeesh Nagar,
 Nellore, Andhra Pradesh.
+
+
+Services section update:
+The company service offering is limited to:
+1. Cement Transportation — bulk cement transportation by tanker.
+2. Fly Ash Transportation — bulk fly ash transportation by tanker.
+The previous generic heavy fleet and logistics service cards have been removed.
+
+Main banner update:
+The latest user-supplied HD truck and tanker image is used as the homepage hero banner (assets/arunachalam-main-banner.jpg).
