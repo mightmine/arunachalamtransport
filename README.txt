@@ -2,7 +2,8 @@ ARUNACHALAM TRANSPORT CO. - STATIC WEBSITE
 
 Updated in this package:
 - Official-style company emblem redrawn as a clean scalable SVG and high-resolution PNG (where PNG rendering is available).
-- Updated phone: +91 98859 30730
+- Primary phone: +91 98859 30730
+Secondary phone: +91 96888 68866
 - Updated email: arunachalamtransportcompany@gmail.com
 - All 16 supplied fleet photos enlarged 2x and gently sharpened.
 - Responsive static HTML/CSS/JavaScript website.
@@ -25,3 +26,28 @@ the original camera files. For genuinely sharper source photos, original camera 
 Before publishing:
 Confirm the company address, services, operating locations, and any certifications before
 adding those claims. Test the contact links on mobile.
+
+Company address:
+Arunachalam Transport Company
+No.52/F3, Durugam Road,
+Thiruvarangam Nagar,
+Kallakurichi, Tamil Nadu - 606206.
+
+Company address:
+Arunachalam Transport Company
+No.52/F3, Durugam Road,
+Thiruvarangam Nagar,
+Kallakurichi, Tamil Nadu, 606206.
+
+
+Company addresses:
+Communication Address:
+Arunachalam Transport Company
+No.52/F3, Durugam Road,
+Thiruvarangam Nagar,
+Kallakurichi,
+Tamil Nadu, 606206.
+
+Registered Office Address:
+2nd Street, Jagadeesh Nagar,
+Nellore, Andhra Pradesh.
