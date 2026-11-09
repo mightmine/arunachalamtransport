@@ -85,3 +85,22 @@ The previous generic heavy fleet and logistics service cards have been removed.
 
 Main banner update:
 The latest user-supplied HD truck and tanker image is used as the homepage hero banner (assets/arunachalam-main-banner.jpg).
+
+
+Latest contact details and address order:
+1. Regd. Office Address:
+   2nd Street, Jagadeesh Nagar,
+   Nellore, Andhra Pradesh – 524002, India.
+   Contact: +91 98859 30730.
+
+2. Admin Office:
+   No.52/F3, Durugam Road,
+   Thiruvarangam Nagar,
+   Kallakurichi, Tamil Nadu – 606206.
+   Contact: +91 96888 68866.
+
+High-Priority Support:
+Support 1: +91 97904 84696
+Support 2: +91 63856 54460
+
+Email: arunachalamtransportcompany@gmail.com

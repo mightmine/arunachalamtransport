@@ -77,6 +77,28 @@
       .hero:before{background-position:62% center !important}
     }
 
+  
+    /* Address order and high-priority support contact styling */
+    .address-phone{display:inline-block;margin-top:13px;color:#17263d;font-size:13px;font-weight:700}
+    .address-phone strong{color:#e9651b}
+    .support-panel{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center;margin-top:22px;padding:24px 27px;background:#17263d;border-radius:9px;color:#fff}
+    .support-intro .contact-label{color:#ff985b}
+    .support-intro h3{font-size:20px;color:#fff;margin:6px 0}
+    .support-intro p{font-size:13px;line-height:1.6;color:#d4dbe5;margin:0}
+    .support-numbers{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .support-numbers a{display:flex;flex-direction:column;gap:7px;padding:15px;background:#243751;border:1px solid rgba(255,255,255,.14);border-radius:7px;color:#fff}
+    .support-numbers a span{font-size:10px;letter-spacing:1px;color:#ff985b;font-weight:800}
+    .support-numbers a strong{font-size:16px;color:#fff;white-space:nowrap}
+    .contact-email{margin-top:19px;color:#536176;font-size:13px}
+    .contact-email span{font-weight:700;color:#e9651b}
+    .contact-email a{color:#26364d}
+    .footer-address-group a{display:block;margin-top:5px}
+    @media(max-width:680px){
+      .support-panel{grid-template-columns:1fr;padding:21px}
+      .support-numbers{grid-template-columns:1fr}
+      .support-numbers a strong{white-space:normal}
+    }
+
   </style>
 </head>
 <body>
@@ -162,27 +184,35 @@
     <div class="contact-heading">
       <span class="eyebrow">Contact our team</span>
       <h2>Let's plan your next transportation requirement.</h2>
-      <p>Get in touch with Arunachalam Transport Company for bulk liquid transportation and logistics enquiries.</p>
+      <p>Contact Arunachalam Transport Company for bulk cement and fly ash transportation enquiries and support.</p>
     </div>
     <div class="contact-details">
       <div class="contact-card address-card">
-        <span class="contact-label">COMMUNICATION ADDRESS</span>
-        <h3>Arunachalam Transport Company</h3>
-        <address>No.52/F3, Durugam Road,<br>Thiruvarangam Nagar,<br>Kallakurichi,<br>Tamil Nadu – 606206.</address>
+        <span class="contact-label">REGD. OFFICE ADDRESS</span>
+        <h3>Registered Office</h3>
+        <address>2nd Street, Jagadeesh Nagar,<br>Nellore,<br>Andhra Pradesh – 524002, India.</address>
+        <a class="address-phone" href="tel:+919885930730"><strong>Contact:</strong> +91 98859 30730</a>
       </div>
       <div class="contact-card address-card">
-        <span class="contact-label">REGISTERED OFFICE</span>
-        <h3>Registered Office Address</h3>
-        <address>2nd Street, Jagadeesh Nagar,<br>Nellore,<br>Andhra Pradesh.</address>
+        <span class="contact-label">ADMIN OFFICE</span>
+        <h3>Administrative Office</h3>
+        <address>No.52/F3, Durugam Road,<br>Thiruvarangam Nagar,<br>Kallakurichi,<br>Tamil Nadu – 606206.</address>
+        <a class="address-phone" href="tel:+919688868866"><strong>Contact:</strong> +91 96888 68866</a>
       </div>
     </div>
-    <div class="contact-bottom">
-      <div class="contact-methods">
-        <a href="tel:+919885930730"><strong>Primary</strong> +91 98859 30730</a>
-        <a href="tel:+919688868866"><strong>Secondary</strong> +91 96888 68866</a>
-        <a href="mailto:arunachalamtransportcompany@gmail.com">arunachalamtransportcompany@gmail.com</a>
+    <div class="support-panel">
+      <div class="support-intro">
+        <span class="contact-label">HIGH-PRIORITY SUPPORT</span>
+        <h3>We're here when you need us.</h3>
+        <p>For urgent transportation assistance, contact our support team directly.</p>
       </div>
-      <a class="btn contact-call" href="tel:+919885930730">CALL PRIMARY NUMBER&nbsp; ↗</a>
+      <div class="support-numbers">
+        <a href="tel:+919790484696"><span>SUPPORT 1</span><strong>+91 97904 84696</strong></a>
+        <a href="tel:+916385654460"><span>SUPPORT 2</span><strong>+91 63856 54460</strong></a>
+      </div>
+    </div>
+    <div class="contact-email">
+      <span>Email:</span> <a href="mailto:arunachalamtransportcompany@gmail.com">arunachalamtransportcompany@gmail.com</a>
     </div>
   </div>
 </section>
@@ -192,10 +222,9 @@
       <div><a class="brand footer-brand" href="#home"><img class="brand-logo" src="assets/arunachalam-logo.svg" alt="Arunachalam Transport Co. logo"><span>ARUNACHALAM<small>TRANSPORT CO.</small></span></a><p>Dependable tanker transportation and logistics, driven by a commitment to every journey.</p></div>
       <div><h3>QUICK LINKS</h3><a href="#about">About Us</a><a href="#services">Services</a><a href="#fleet">Our Fleet</a><a href="#gallery">Gallery</a></div>
       <div><h3>CONTACT</h3>
-        <div class="footer-address-group"><strong>Communication Address</strong><p>Arunachalam Transport Company<br>No.52/F3, Durugam Road,<br>Thiruvarangam Nagar,<br>Kallakurichi,<br>Tamil Nadu – 606206.</p></div>
-        <div class="footer-address-group"><strong>Registered Office Address</strong><p>2nd Street, Jagadeesh Nagar,<br>Nellore, Andhra Pradesh.</p></div>
-        <a href="tel:+919885930730">Primary: +91 98859 30730</a>
-        <a href="tel:+919688868866">Secondary: +91 96888 68866</a>
+        <div class="footer-address-group"><strong>Regd. Office Address</strong><p>2nd Street, Jagadeesh Nagar,<br>Nellore,<br>Andhra Pradesh – 524002, India.</p><a href="tel:+919885930730">Contact: +91 98859 30730</a></div>
+        <div class="footer-address-group"><strong>Admin Office</strong><p>No.52/F3, Durugam Road,<br>Thiruvarangam Nagar,<br>Kallakurichi,<br>Tamil Nadu – 606206.</p><a href="tel:+919688868866">Contact: +91 96888 68866</a></div>
+        <div class="footer-address-group"><strong>High-Priority Support</strong><a href="tel:+919790484696">Support 1: +91 97904 84696</a><a href="tel:+916385654460">Support 2: +91 63856 54460</a></div>
         <a href="mailto:arunachalamtransportcompany@gmail.com">arunachalamtransportcompany@gmail.com</a>
       </div>
     </div>
