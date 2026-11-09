@@ -51,3 +51,27 @@ Tamil Nadu, 606206.
 Registered Office Address:
 2nd Street, Jagadeesh Nagar,
 Nellore, Andhra Pradesh.
+
+
+Latest visual update:
+- New uploaded HD tanker photograph is used as the homepage hero banner.
+- Contact area redesigned with two separate address cards, navy text on a light background,
+  orange section labels and improved spacing.
+- Duplicate old address line removed from the contact call-to-action area.
+- Footer address typography and contrast improved.
+
+Current contact details:
+Primary: +91 98859 30730
+Secondary: +91 96888 68866
+Email: arunachalamtransportcompany@gmail.com
+
+Communication Address:
+Arunachalam Transport Company
+No.52/F3, Durugam Road,
+Thiruvarangam Nagar,
+Kallakurichi,
+Tamil Nadu, 606206.
+
+Registered Office Address:
+2nd Street, Jagadeesh Nagar,
+Nellore, Andhra Pradesh.
