@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+<defs>
+ <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd52a"/><stop offset="1" stop-color="#f5a900"/></linearGradient>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff8b00"/><stop offset=".48" stop-color="#f04418"/><stop offset="1" stop-color="#c90020"/></linearGradient>
+ <linearGradient id="road" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#161d25"/><stop offset="1" stop-color="#303943"/></linearGradient>
+</defs>
+<g fill="url(#sun)">
+ <path d="M248 150 L216 8 L278 141Z"/><path d="M159 194 L91 74 L190 170Z"/>
+ <path d="M130 270 L10 225 L137 242Z"/><path d="M128 351 L0 363 L125 319Z"/>
+ <path d="M155 420 L65 511 L184 449Z"/><path d="M355 137 L420 24 L386 158Z"/>
+ <circle cx="270" cy="300" r="118"/>
+</g>
+<!-- white separation arc -->
+<path d="M160 420 A160 160 0 0 1 421 176" fill="none" stroke="#fff" stroke-width="19"/>
+<!-- stylized A -->
+<path d="M93 615 L273 164 Q280 147 300 147 L422 147 Q436 148 444 166 L585 615 L449 615 L368 347 L252 615 Z" fill="url(#a)"/>
+<!-- road sweep under the A -->
+<path d="M250 615 Q358 421 621 365 Q505 427 439 615 L335 615 Q383 512 430 449 Q349 506 307 615 Z" fill="url(#road)"/>
+<path d="M272 603 Q375 437 572 389" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<path d="M300 566 l17 -26 M337 516 l18 -24 M377 469 l20 -20 M420 432 l23 -17 M466 407 l25 -14 M516 390 l24 -10" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+</svg>

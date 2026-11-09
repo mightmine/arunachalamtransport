@@ -1,20 +1,27 @@
 ARUNACHALAM TRANSPORT CO. - STATIC WEBSITE
 
+Updated in this package:
+- Official-style company emblem redrawn as a clean scalable SVG and high-resolution PNG (where PNG rendering is available).
+- Updated phone: +91 98859 30730
+- Updated email: arunachalamtransportcompany@gmail.com
+- All 16 supplied fleet photos enlarged 2x and gently sharpened.
+- Responsive static HTML/CSS/JavaScript website.
+
 Files:
 - index.html: complete responsive website
-- assets/: optimized JPEG photographs supplied for this website
-
-Preview:
-Open index.html in a browser.
+- assets/arunachalam-logo.svg: scalable vector logo master
+- assets/arunachalam-logo.png: high-resolution logo PNG (if present)
+- assets/: optimized enlarged fleet photographs
 
 Upload:
-Upload index.html and the complete assets folder to the document root of your hosting account
+Upload index.html and the complete assets folder to your hosting document root
 (commonly public_html/ or /var/www/html/). Keep the assets folder beside index.html.
 
-Before publishing:
-1. Confirm the phone number and email address.
-2. Add the official company logo if available (the current A mark is a temporary text-based brand mark).
-3. Confirm the exact services, operating locations, company address and any certifications before adding those claims.
-4. Test the contact links on mobile.
+Image quality note:
+The supplied photos were enlarged 2x with high-quality resampling and light sharpening.
+This improves display size and perceived crispness, but cannot recreate detail absent from
+the original camera files. For genuinely sharper source photos, original camera images are best.
 
-This is a static HTML/CSS/JavaScript website. No PHP, database or build process is required.
+Before publishing:
+Confirm the company address, services, operating locations, and any certifications before
+adding those claims. Test the contact links on mobile.
